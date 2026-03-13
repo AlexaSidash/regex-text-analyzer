@@ -1,0 +1,8 @@
+Hello!
+
+Contact us at support@example.com
+or admin@test.org
+
+Date of meeting: 12/03/2026
+
+Phone: +380991234567
